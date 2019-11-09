@@ -4,7 +4,7 @@ This programme simulates an N-body system evolving under a specified law of grav
 
 The main programme takes four arguments. To run this simulation from terminal, please type
 ```
-java NbodyVerlet traj.xyz energy.xyz settings.input entries.input"
+java NbodyVerlet traj.xyz energy.xyz settings.input entries.input
 ```
 
 ## OUTPUT
